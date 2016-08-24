@@ -1,3 +1,4 @@
 source 'http://rubygems.org'
-gem 'foreman', '~> 0.77.0'
-gem 'compass', '~> 1.0.3'
+
+gem 'foreman', '~> 0.78.0'
+gem 'sass', '~> 3.4', '>= 3.4.21'

@@ -1,0 +1,3 @@
+[submodule "assets/sass/libs/sassy-rey"]
+	path = assets/sass/libs/sassy-rey
+	url = git@github.com:rey/sassy-rey.git
