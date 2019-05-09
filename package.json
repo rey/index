@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0",
-    "start": "concurrently \"http-server -p 1234 -c-1\" \"node-sass --watch --recursive assets/sass --output assets/css --output-style compact\""
+    "start": "concurrently \"http-server -p 1234 -c-1\" \"node-sass --watch --recursive assets/sass --output assets/css --output-style compressed\""
   },
   "repository": {
     "type": "git",
